@@ -7,3 +7,4 @@ Redux devtoools Enabled Websites:
 3. udacity.com
 4. glassdoor.com
 5. https://yourstory.com/
+6. yourcommunity.slack.com
